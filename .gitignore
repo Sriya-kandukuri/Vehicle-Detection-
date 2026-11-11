@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+instance/*.db
+uploads/input/*
+uploads/output/*
+uploads/datasets/*
+!uploads/input/.gitkeep
+!uploads/output/.gitkeep
+!uploads/datasets/.gitkeep
+*.pt
+
